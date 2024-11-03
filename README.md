@@ -1,7 +1,7 @@
 👋 Hello! My name is Gordey Danilochkin  
 
 🎓 I am a sophomore CS student at Trinity University  
-🌐 Interested in web development and backend engineering  
+🌐 Interested in backend development  
 ☕ Primary language: Java  
 🔄 Experience with C#, Python, Haskell, and R  
 🤖 Researching AI (reinforcement learning) with Dr. Eva Tuba  
