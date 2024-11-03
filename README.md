@@ -1,3 +1,4 @@
+👋 Hello! My name is Gordey Danilochkin  
 🎓 I am a sophomore CS student at Trinity University  
 🌐 Interested in web development and backend engineering  
 ☕ Primary language: Java  
@@ -6,7 +7,7 @@
 
 🛠 Tech & Tools  
 💻 Languages: Java, C#, Python, Haskell, R  
-⚙️ Frameworks/Tools: Javalin, HTTP, Git, Gradle, JUnit, VS Code, Unity  
+⚙️ Frameworks/Tools: PostgreSQL, Javalin, HTTP, Git, Gradle, JUnit, VS Code, Unity  
 
 📫 Get in Touch  
 📧 Email: gdaniloc@trinity.edu  
