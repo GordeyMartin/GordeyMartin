@@ -3,7 +3,7 @@
 🎓 I am a sophomore CS student at Trinity University  
 ☕ Primary language: Java  
 🔄 Experience with C#, Python, C, Haskell, and R  
-🤖 Researching AI (reinforcement learning) with Dr. Eva Tuba  
+🤖 Researching AI with Dr. Eva Tuba  
 
 📫 Get in Touch  
 📧 Email: gdaniloc@trinity.edu  
